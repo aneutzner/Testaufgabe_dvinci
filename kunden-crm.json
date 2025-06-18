@@ -1,0 +1,30 @@
+[
+  {
+    "id": "customer1",
+    "modules": [
+      "candidate-experience-module"
+    ]
+  },
+  {
+    "id": "customer2",
+    "modules": [
+      "candidate-experience-module",
+      "cronofy",
+      "attract"
+    ]
+  },
+  {
+    "id": "customer3",
+    "modules": [
+      "candidate-experience-module",
+      "attract",
+      "multiposting"
+    ]
+  },
+  {
+    "id": "customer5",
+    "modules": [
+      "candidate-experience-module"
+    ]
+  }
+]

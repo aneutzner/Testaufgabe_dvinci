@@ -1,0 +1,14 @@
+{
+  "price-by-companySite": {
+    "0-100": 500,
+    "101-250": 750,
+    "251-500": 1000,
+    "501-1000": 1500,
+    "1001-10000": 2500
+  },
+  "price-for-modules": {
+    "candidate-experience-module": 250,
+    "cronofy": 310,
+    "attract": 700
+  }
+}
