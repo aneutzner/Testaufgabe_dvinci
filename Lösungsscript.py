@@ -82,7 +82,7 @@ df_result = df_merge.merge(module_sum, on='id', how='left')
 
 print(df_result.isna().sum())
 # Fehlende Werte mit NA kennzeichnen
-df_result['price_by_companySize' ] = df_result['companySize'].fillna(0)
+df_result['price_by_companySize' ] = df_result['price_by_companySize'].fillna(0)
 df_result[['url','modules','companySize_cat', 'companySize']] =df_result[['url', 'modules','companySize_cat', 'companySize']].fillna('NA')
 
 # Gesamtsumme berechnen
