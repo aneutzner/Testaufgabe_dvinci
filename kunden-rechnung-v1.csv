@@ -1,0 +1,6 @@
+id,url,companySize,modules,companySize_cat,price_by_companySize,price_by_module,total_price
+customer1,https://www.dvinci.de/customer1,1200.0,['candidate-experience-module'],1001-10000,2500.0,250.0,2750.0
+customer2,https://www.dvinci.de/customer2,178.0,"['candidate-experience-module', 'cronofy', 'attract']",101-250,750.0,1260.0,2010.0
+customer3,https://www.dvinci.de/customer3,512.0,"['candidate-experience-module', 'attract', 'multiposting']",501-1000,1500.0,950.0,2450.0
+customer4,https://www.dvinci.de/customer4,85.0,NA,0-100,500.0,0.0,500.0
+customer5,NA,NA,['candidate-experience-module'],NA,0.0,250.0,250.0
